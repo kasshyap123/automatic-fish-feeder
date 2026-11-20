@@ -1,0 +1,5 @@
+# Firebase CLI binary and caches (do not commit)
+*.exe
+.firebase/
+# Secrets
+*secret*
